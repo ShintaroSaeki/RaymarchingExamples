@@ -1,0 +1,323 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/mural_saeki/Documents/Github/Personal/CloudVolumeRenderingExample/RaymarchingExamples
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58194
+Successfully changed project path to: /Users/mural_saeki/Documents/Github/Personal/CloudVolumeRenderingExample/RaymarchingExamples
+/Users/mural_saeki/Documents/Github/Personal/CloudVolumeRenderingExample/RaymarchingExamples
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 24.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/mural_saeki/Documents/Github/Personal/CloudVolumeRenderingExample/RaymarchingExamples/Assets
+GfxDevice: creating device client; threaded=0
+2021-02-10 11:40:41.911 Unity[11384:448010] Color LCD preferred device: AMD Radeon Pro 5300M (high power)
+2021-02-10 11:40:41.911 Unity[11384:448010] Metal devices available: 2
+2021-02-10 11:40:41.911 Unity[11384:448010] 0: AMD Radeon Pro 5300M (high power)
+2021-02-10 11:40:41.911 Unity[11384:448010] 1: Intel(R) UHD Graphics 630 (low power)
+2021-02-10 11:40:41.912 Unity[11384:448010] Using device AMD Radeon Pro 5300M (high power)
+Initializing Metal device caps: AMD Radeon Pro 5300M
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56384
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.2f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.003705 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 25.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.019 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001207 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.899 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.8 MB.
+System memory in use after: 113.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1540.
+Total: 1.932723 ms (FindLiveObjects: 0.163924 ms CreateObjectMapping: 0.048313 ms MarkObjects: 1.635905 ms  DeleteObjects: 0.083223 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/New Folder
+  artifactKey: Guid(d95db797dda464f8c89a3f685edbb432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(d95db797dda464f8c89a3f685edbb432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae5b03d1262bb66a9021616adecb1fd2') in 0.004553 seconds
+  Import took 0.007196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.155116 seconds.
+  path: Assets/Material
+  artifactKey: Guid(d95db797dda464f8c89a3f685edbb432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material using Guid(d95db797dda464f8c89a3f685edbb432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59ae76f87dec98fc60484211c604da9c') in 0.000972 seconds
+  Import took 0.002825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.702435 seconds.
+  path: Assets/Material/Shader
+  artifactKey: Guid(5b0f63c9d2f3243fe8cd627f2166ba62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Shader using Guid(5b0f63c9d2f3243fe8cd627f2166ba62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b4e88187ad92baf174e164eb926c86c') in 0.001512 seconds
+  Import took 0.003609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.567394 seconds.
+  path: Assets/Material/Shader/SimpleRayMarching.shader
+  artifactKey: Guid(8bd86749d6bc1454eac5e4848a45d1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Shader/SimpleRayMarching.shader using Guid(8bd86749d6bc1454eac5e4848a45d1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fba979175afb8f21f3c7caf6e7a8dc6') in 1.109931 seconds
+  Import took 1.111802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1787.123209 seconds.
+  path: Assets/Material/Shader/SimpleRayMarching.shader
+  artifactKey: Guid(8bd86749d6bc1454eac5e4848a45d1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Shader/SimpleRayMarching.shader using Guid(8bd86749d6bc1454eac5e4848a45d1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '850fe4d66517cbae8d0fa1282648c619') in 0.004316 seconds
+  Import took 0.007072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.816942 seconds.
+  path: Assets/Material/Shader/SimpleRayMarching.shader
+  artifactKey: Guid(8bd86749d6bc1454eac5e4848a45d1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Shader/SimpleRayMarching.shader using Guid(8bd86749d6bc1454eac5e4848a45d1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edcfbbfe736dd34c1ad8e7f3b440db63') in 0.004343 seconds
+  Import took 0.006561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 365.047689 seconds.
+  path: Assets/Material/SimpleRaymarching.mat
+  artifactKey: Guid(2cbb5f00b4c2d444db758a363cdac248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/SimpleRaymarching.mat using Guid(2cbb5f00b4c2d444db758a363cdac248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c2997ac7b2edd716f19e45ef3c3ffca') in 0.801176 seconds
+  Import took 0.803882 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000352 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.800 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 126.6 MB.
+System memory in use after: 126.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1582.
+Total: 2.269780 ms (FindLiveObjects: 0.202934 ms CreateObjectMapping: 0.056660 ms MarkObjects: 1.930710 ms  DeleteObjects: 0.077189 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.789963 seconds.
+  path: Assets/Material/SimpleRaymarching.mat
+  artifactKey: Guid(2cbb5f00b4c2d444db758a363cdac248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/SimpleRaymarching.mat using Guid(2cbb5f00b4c2d444db758a363cdac248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a54cc2809b2adbd085f8add09eea522') in 0.060007 seconds
+  Import took 0.063083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 172.540801 seconds.
+  path: Assets/Material/Shader/SimpleRayMarching.shader
+  artifactKey: Guid(8bd86749d6bc1454eac5e4848a45d1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Shader/SimpleRayMarching.shader using Guid(8bd86749d6bc1454eac5e4848a45d1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db20ef9c2c15a51dcdc9505c71a7711e') in 0.002071 seconds
+  Import took 0.004882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000908 seconds.
+  path: Assets/Material/Shader/SimpleRayMarching.shader
+  artifactKey: Guid(8bd86749d6bc1454eac5e4848a45d1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Shader/SimpleRayMarching.shader using Guid(8bd86749d6bc1454eac5e4848a45d1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db20ef9c2c15a51dcdc9505c71a7711e') in 0.001783 seconds
+  Import took 0.003340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 402.751463 seconds.
+  path: Assets/Material/SimpleRaymarching.mat
+  artifactKey: Guid(2cbb5f00b4c2d444db758a363cdac248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/SimpleRaymarching.mat using Guid(2cbb5f00b4c2d444db758a363cdac248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e507ea0e2230e40566f423ffebad39f8') in 0.008625 seconds
+  Import took 0.011483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1049.504864 seconds.
+  path: Assets/Material/SimpleRaymarching.mat
+  artifactKey: Guid(2cbb5f00b4c2d444db758a363cdac248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/SimpleRaymarching.mat using Guid(2cbb5f00b4c2d444db758a363cdac248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12b58adeac4c489a5b170e444fe0185d') in 0.051788 seconds
+  Import took 0.054701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2008.406366 seconds.
+  path: Assets/Material/ShadingRayMarchig.shader
+  artifactKey: Guid(2fbdf6e2fdfaf42a4b6b0c243e34c675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/ShadingRayMarchig.shader using Guid(2fbdf6e2fdfaf42a4b6b0c243e34c675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0474b79772069597a1105fd635e3963') in 0.003415 seconds
+  Import took 0.005316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.836410 seconds.
+  path: Assets/Material/ShadingRaymarchig.shader
+  artifactKey: Guid(2fbdf6e2fdfaf42a4b6b0c243e34c675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/ShadingRaymarchig.shader using Guid(2fbdf6e2fdfaf42a4b6b0c243e34c675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdc47182fb187bedaa57dfa8824465f4') in 0.002564 seconds
+  Import took 0.005073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.884447 seconds.
+  path: Assets/Material/Shader/SimpleRayMarching.shader
+  artifactKey: Guid(8bd86749d6bc1454eac5e4848a45d1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Shader/SimpleRayMarching.shader using Guid(8bd86749d6bc1454eac5e4848a45d1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2f7fe8ef1ecd23af4dcd6c0fd9afe08') in 0.002133 seconds
+  Import took 0.004757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.203226 seconds.
+  path: Assets/Material/Shader/SimpleRaymarching.shader
+  artifactKey: Guid(8bd86749d6bc1454eac5e4848a45d1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Shader/SimpleRaymarching.shader using Guid(8bd86749d6bc1454eac5e4848a45d1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd72cc13cf45b021dcaabd8283cdc360e') in 0.001919 seconds
+  Import took 0.004623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2044.528225 seconds.
+  path: Assets/Material/Shader/ShadingRaymarchig.shader
+  artifactKey: Guid(2fbdf6e2fdfaf42a4b6b0c243e34c675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Shader/ShadingRaymarchig.shader using Guid(2fbdf6e2fdfaf42a4b6b0c243e34c675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4d71e34de9012ca7e7907a84b727125') in 0.002088 seconds
+  Import took 0.004562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.270523 seconds.
+  path: Assets/Material/Shader/ShadingRaymarchig.shader
+  artifactKey: Guid(2fbdf6e2fdfaf42a4b6b0c243e34c675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Shader/ShadingRaymarchig.shader using Guid(2fbdf6e2fdfaf42a4b6b0c243e34c675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8358f345507936357e429db91bdc64d3') in 0.002046 seconds
+  Import took 0.004081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.384835 seconds.
+  path: Assets/Material/Shader/ShadingRaymarchig.shader
+  artifactKey: Guid(2fbdf6e2fdfaf42a4b6b0c243e34c675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Shader/ShadingRaymarchig.shader using Guid(2fbdf6e2fdfaf42a4b6b0c243e34c675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc7fe67e1b2d37ab92353797ce932efa') in 0.001899 seconds
+  Import took 0.004098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 355.117425 seconds.
+  path: Assets/Material/Shader/ShadingRaymarchig.shader
+  artifactKey: Guid(2fbdf6e2fdfaf42a4b6b0c243e34c675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Shader/ShadingRaymarchig.shader using Guid(2fbdf6e2fdfaf42a4b6b0c243e34c675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f179470887be459ce953a514921cc3f3') in 0.001912 seconds
+  Import took 0.003900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.044281 seconds.
+  path: Assets/Material/Shader/ShadingRaymarchig.shader
+  artifactKey: Guid(2fbdf6e2fdfaf42a4b6b0c243e34c675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Shader/ShadingRaymarchig.shader using Guid(2fbdf6e2fdfaf42a4b6b0c243e34c675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '725ddefff9938c31a46d8d3a0670a636') in 0.002516 seconds
+  Import took 0.004983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.178263 seconds.
+  path: Assets/Material/Shader/ShadingRaymarchig.shader
+  artifactKey: Guid(2fbdf6e2fdfaf42a4b6b0c243e34c675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Shader/ShadingRaymarchig.shader using Guid(2fbdf6e2fdfaf42a4b6b0c243e34c675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68fe7485b0876911acd45f33373e5ce1') in 0.002663 seconds
+  Import took 0.004892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.264067 seconds.
+  path: Assets/Material/ShadingRaymarching.mat
+  artifactKey: Guid(21eb88aa3a86e451ea352c9c5e555e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/ShadingRaymarching.mat using Guid(21eb88aa3a86e451ea352c9c5e555e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f6ede3b89a993a62d6e34046bca3c5f') in 0.016128 seconds
+  Import took 0.018591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 316.308612 seconds.
+  path: Assets/Material/ShadingRaymarching.mat
+  artifactKey: Guid(21eb88aa3a86e451ea352c9c5e555e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/ShadingRaymarching.mat using Guid(21eb88aa3a86e451ea352c9c5e555e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20daa2d4fd865c693f68d6db395853e9') in 0.013138 seconds
+  Import took 0.015425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.131316 seconds.
+  path: Assets/Material/ShadingRaymarching.mat
+  artifactKey: Guid(21eb88aa3a86e451ea352c9c5e555e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/ShadingRaymarching.mat using Guid(21eb88aa3a86e451ea352c9c5e555e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfcf2b5c1115c7e314bd109db1c2212c') in 0.016126 seconds
+  Import took 0.018527 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000415 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.800 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1096 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.7 MB.
+System memory in use after: 127.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1587.
+Total: 1.589805 ms (FindLiveObjects: 0.144288 ms CreateObjectMapping: 0.038405 ms MarkObjects: 1.359508 ms  DeleteObjects: 0.046551 ms)
+
